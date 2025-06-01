@@ -1,4 +1,4 @@
-# clremoveprops.lua
+# cl_removeprops.lua
 
 This script is designed for use with FiveM and removes specific world props (objects) from the GTA V map when a player is nearby. It is intended for use in custom servers where certain map objects need to be dynamically deleted.
 
